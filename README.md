@@ -8,6 +8,8 @@ This is the repository of our replication package for the study on the readabili
 - `classify` contains the code for the classifiers
 
 
-To run the classifier, please check "classify.py" and specify the aspect to classify (line 50) and the algorithm (line 53)
+To run the classifier, please check `classify.py` and specify the aspect to classify (line 50) and the algorithm (line 53)
+
 Then run the following command:
-python classify.py
+
+`python classify.py`
