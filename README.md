@@ -1,4 +1,4 @@
-# Log_Message_Readability
+# Log Message Readability (ASE 2023)
 
 This is the repository of our replication package for the study on the readability of log messages.
 
