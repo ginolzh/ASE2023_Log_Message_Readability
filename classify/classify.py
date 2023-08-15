@@ -2,7 +2,6 @@ import os
 import sys
 import re as re
 import string
-import yaml
 
 import multiprocessing
 import numpy as np
@@ -25,10 +24,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.svm import LinearSVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
-
 from imblearn.over_sampling import RandomOverSampler, SMOTE, ADASYN
-
-import matplotlib.pyplot as plt
 
 import tensorflow.compat.v1 as tf
 from tensorflow import keras
